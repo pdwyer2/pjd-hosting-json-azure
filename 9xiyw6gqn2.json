@@ -1,0 +1,20 @@
+{
+    "firstName": "Payton",
+    "lastName": "Dwyer",
+    "preferredName": "Payton",
+    "email": "paytonjdwyer@lewisu.edu",
+    "phoneNumber": "7085778138",
+    "class":"cpsc-24700-001",
+	"room":"AS-104-A",
+	"startTime":"3pm CT",
+	"seatNumber":"",
+	"inPerson":[ "Monday" ],
+	"virtual": [ "Wednesday", "Friday" ],
+    "city": "Homer Glen",
+    "state": "IL",
+    "zip": "60491",
+    "lat": "41.60",
+    "lng": "-87.94",
+    "favoriteHobby": "Skateboarding"
+
+}

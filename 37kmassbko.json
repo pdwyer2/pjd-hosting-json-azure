@@ -1,0 +1,13 @@
+{
+    "firstName": "Steve",
+    "lastName": "Rogers",
+    "preferredName": "Captain America",
+    "email": "TheCap@lewisu.edu",
+    "phoneNumber": "6781367092",
+    "city": "Brooklyn",
+    "state": "NY",
+    "zip": "11201",
+    "lat": "40.67",
+    "lng": "-73.94",
+    "favoriteHobby": "Leading"
+}
